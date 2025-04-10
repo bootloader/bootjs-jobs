@@ -1,0 +1,25 @@
+{
+  "name": "bootjs-jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootloader/bootjs-jobs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootloader/bootjs-jobs/issues"
+  },
+  "homepage": "https://github.com/bootloader/bootjs-jobs#readme",
+  "dependencies": {
+    "@bootloader/core": "^0.0.8",
+    "@bootloader/redison": "^1.1.9",
+    "@bootloader/utils": "^1.0.13"
+  }
+}
